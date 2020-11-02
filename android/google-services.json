@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "672895212864",
+    "firebase_url": "https://vidafoods-52692.firebaseio.com",
+    "project_id": "vidafoods-52692",
+    "storage_bucket": "vidafoods-52692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672895212864:android:d9486cfdbed717ea952ea5",
+        "android_client_info": {
+          "package_name": "com.example.ordervida_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672895212864-g01v7g807i4dtbullbedjtgnr9c0snsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ordervida_restaurant",
+            "certificate_hash": "59c26b67e228596ebef60a11ba662530fcb97a06"
+          }
+        },
+        {
+          "client_id": "672895212864-pjlm98a4p10nmmlnps9sh216dfgtpc43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4aSmAHLU3ymCqE0H1b-PwYF9XBQVyyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672895212864-pjlm98a4p10nmmlnps9sh216dfgtpc43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672895212864:android:b0dae406d04a1cd7952ea5",
+        "android_client_info": {
+          "package_name": "com.example.vida_foods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672895212864-e4o4d3rej8oliet86d8s955g5ub944v2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vida_foods",
+            "certificate_hash": "a510b0ca7705a3f6b6e9d7d134fea225cf86b37c"
+          }
+        },
+        {
+          "client_id": "672895212864-pjlm98a4p10nmmlnps9sh216dfgtpc43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4aSmAHLU3ymCqE0H1b-PwYF9XBQVyyP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672895212864-pjlm98a4p10nmmlnps9sh216dfgtpc43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
