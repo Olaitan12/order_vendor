@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:ordervida_restaurant/helpers/style.dart';
 import 'package:ordervida_restaurant/models/product.dart';
-import 'package:provider/provider.dart';
-
 import 'custom_text.dart';
 
 class ProductWidget extends StatelessWidget {

@@ -8,7 +8,7 @@
     <application
         android:name="io.flutter.app.FlutterApplication"
         android:label="ordervida_restaurant"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/ic_ordervida">
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"

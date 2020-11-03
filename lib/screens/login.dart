@@ -39,7 +39,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: <Widget>[
                       Image.asset(
-                        "assets/images/logo.png",
+                        "assets/images/ic_ordervida_logo.png",
                         width: 120,
                         height: 120,
                       ),

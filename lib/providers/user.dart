@@ -10,7 +10,6 @@ import 'package:ordervida_restaurant/models/cart_item.dart';
 import 'package:ordervida_restaurant/models/order.dart';
 import 'package:ordervida_restaurant/models/product.dart';
 import 'package:ordervida_restaurant/models/restaurant.dart';
-import 'package:uuid/uuid.dart';
 
 enum Status { Uninitialized, Authenticated, Authenticating, Unauthenticated }
 

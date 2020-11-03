@@ -1,11 +1,5 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:transparent_image/transparent_image.dart';
-
-import '../helpers/style.dart';
-import 'custom_text.dart';
-import 'loading.dart';
 
 class Featured extends StatefulWidget {
   @override
